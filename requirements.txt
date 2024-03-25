@@ -1,0 +1,8 @@
+streamlit
+openai
+openai==0.28
+IPython
+graphviz
+diagrams
+langchain
+pydot
